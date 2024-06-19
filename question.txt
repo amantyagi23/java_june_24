@@ -1,0 +1,22 @@
+WAP to add two numbers
+
+input -> 10,20
+output -> 30; 
+
+WAP to multiply two number
+
+input -> 6,2
+output -> 12;
+
+
+WAP to check weather number greater 10 or not;
+
+Wap To check number even no or odd number
+
+hind :- '%'
+
+WAP to swap two numbers;
+
+input a = 10, b= 20;
+
+output a = 20,b= 10;
