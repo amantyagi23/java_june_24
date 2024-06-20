@@ -20,3 +20,16 @@ WAP to swap two numbers;
 input a = 10, b= 20;
 
 output a = 20,b= 10;
+
+
+WAP to add check which is greater among three number by using user input;
+
+
+
+WAP to check and give user marks in grade
+
+marks above 85 -> 'A'
+marks below and above 65 -> 'B'
+marks below and above 45 -> 'C'
+marks below and above 30 ->  'D'
+else fail or grade -> 'E'
