@@ -52,3 +52,59 @@ WAP to create a weak map using switch case
 4 - > thrusday
 5 - > friday
 6 - > satruday
+
+
+Wap to check even upto n times n is an input given user
+
+Wap to print up to n times in asci 
+n 
+1
+2
+3
+4
+5
+5
+Wap to print up to n times in descinding order
+n
+6
+5
+4
+3
+2
+1
+0
+
+
+WAP to print the table of user input number
+
+n = 5
+
+output
+
+
+5X1 = 5
+5X2 = 10
+5X3 = 15
+5X4 = 20
+5X5 = 25
+5X6 = 30
+5X7 = 35
+5X8 = 40
+5X9 = 45
+5X10 = 50
+
+Wap to calculate the running sum upto n times
+
+n = 10
+
+int sum = sum +i
+
+
+1+2+3+4+5+6+7+8+9+10 = 55
+
+
+Wap to find factorial upto n times
+
+n = 5
+
+1*2*3*4*5 = 120
