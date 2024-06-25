@@ -65,7 +65,7 @@ n
 5
 5
 Wap to print up to n times in descinding order
-n
+n      
 6
 5
 4
@@ -107,4 +107,73 @@ Wap to find factorial upto n times
 
 n = 5
 
-1*2*3*4*5 = 120
+1*2*3*4*5 = 120  
+
+
+Wap to print the fibonnic series 
+
+last two value sum define new value
+
+0,1,1,2,3,5,8,13,21
+
+Wap to print the sum of following series up to n times
+
+sum = 1/1 + 1/2 + 1/3 + 1/4 + ..... 1/n; 
+
+
+Wap to print the sum of all even number btw 1 to n where n is an input provided
+
+sum = 2+4+6+8+10 ... n times;
+
+
+
+Wap to count the digit of given number
+input n = 123;
+output :- 3
+
+input n = 876543456;
+output :- 9
+
+
+Wap to print in accending order upto ntimes using while
+Wap to print in Desc order upto ntimes using while
+
+
+Wap to calculate the sum of digit using while
+
+input 4456 
+output 19
+
+input 123
+output 6
+
+Wap to reverse a number using while loop
+
+input 121
+output 121
+
+input = 123456
+output 654321
+
+Wap to check weather a number pailndrome or not
+
+input 123
+output 123 = 321 => false
+
+input 141
+output 141 = 141 => true
+
+
+
+WAP to check weather a number is armstrong or not 
+
+153 = > 1^3 + 5^3 + 3^3 = 1+ 125 + 27 = > 153 yes
+
+370 = > 3^3 + 7^3 + 0^3 = 27 + 343 + 0 = > 370  yes
+
+123 = > 1^3 + 2^3 + 3^3 = 1 + 8 + 27 = > 36 no
+
+
+Wap to check weather a number is prime number on not
+
+2,3,5,7,11,13,17,19,23,31
