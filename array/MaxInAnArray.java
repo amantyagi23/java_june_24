@@ -2,9 +2,9 @@ package array;
 
 public class MaxInAnArray {
     public static void main(String[] args) {
-        int arr[] = { -4, -7, -1, -3, -9, -77, -7, -12, -16, -9 };
+        int arr[] = { 4, 7, 1, -3, 9, -7, 12, 16, 9, 0 };
 
-        int max = Integer.MIN_VALUE;
+        int max = 0;
 
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] > max) {
