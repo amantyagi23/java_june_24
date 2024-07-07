@@ -1,4 +1,3 @@
-package array;
 
 public class ReverseOrder1 {
     public static void main(String[] args) {

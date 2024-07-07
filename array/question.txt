@@ -35,8 +35,37 @@ given array = {1,3,12,52,32,1,0,-2};
 findElement = 32
 output = Present;
 
+solution:- 
+ {1,3,12,52,32,1,0,-2};
+ user input
+ n= 7
+
+
 findElement = 9
 output = Not Present
+
+
+q7. Wap to find the occurence of a number
+
+giver array = {1,2,3,1,4,1,6,7,2,1,6,8,2,3,1,1,5,7}
+
+find occurence of 2;
+
+output 3
+
+q8 WAP to delete element from an array
+
+
+giver array = {1,2,3,1,4,1,6,7,2,1,6,8,2,3,1,1,5,7}
+ele = 1
+
+result = {2,3,4,6,7,2,6,8,2,3,5,7}
+
+break
+contnue
+
+
+
 
 
 
